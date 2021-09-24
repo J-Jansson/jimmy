@@ -36,6 +36,7 @@ h1 {
     font-size: 50;
     
     
+    
 }
 
 .main {
@@ -73,4 +74,12 @@ nav a {
 nav a:hover{
     background-color: #fff;
     color: #000;
+}
+
+#s2 {
+    position: absolute;
+    left: 1065;
+    top: 585;
+    font-size: 10;
+    color: skyblue;
 }
